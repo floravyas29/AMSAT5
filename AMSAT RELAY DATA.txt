@@ -1,33 +1,23 @@
-AMSAT RELAY DATA
-to print 'hello'
+Onboard
+0.433
+0.444
+0.447
+0.432
+0.427
+0.430
+0.449
+0.429
+0.404
+0.416
 
-- Initial Test:
-on-board processing:
-real - 0m0.404s
-
-Overhead from laptop
-real - 0m11.019s
-
-- Multi Test - Onboard Processing - real:
-1. 0.433
-2. 0.444
-3. 0.447
-4. 0.432
-5. 0.427
-6. 0.430
-7. 0.449
-8. 0.429
-9. 0.404
-10. 0.416
-
-- Multi Test - Groundstation Processing - real:
-1. 0m11.019s
-2. 0m11.44s
-3. 0m11.855s
-4. 0m14.400s
-5. 0m11.161s
-6. 0m12.095s
-7. 0m10.258s
-8. 0m11.111s
-9. 0m11.021s
-10. 0m11.4s
+Groundstation
+11.019
+11.44
+11.855
+14.400
+11.161
+12.095
+10.258
+11.111
+11.021
+11.41
